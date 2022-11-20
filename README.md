@@ -16,3 +16,6 @@ I have use full stack technologoies.
 1. You will install Nodejs and mongoDB
 2. Install all the dependencies using npm
 3. Run all the command using nodemon
+
+## Screenshots:
+![Screenshot_20221120_102952](file:///C:/Users/HP/OneDrive/Pictures/Screenshots/Screenshot_20221120_102952.png)
