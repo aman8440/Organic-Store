@@ -1,5 +1,6 @@
 # Organic-Store
-I have developed a eccommerece website. 
+I have developed a e-commerce website. 
+
 Buy one of the best pure and organic food products like fruits, juces and vegetables on online in India. 
 
 I have use full stack technologoies.
